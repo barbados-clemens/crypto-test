@@ -1,0 +1,11 @@
+{
+  "iv": "bNRhzwFWSTII/Yi7QhVWhA==",
+  "jwk_key": {
+    "key_ops": ["encrypt", "decrypt"],
+    "ext": true,
+    "kty": "oct",
+    "k": "gbpBCs62QdTm9N_TvNAW0tYhjh63H_1DvJ34FSC3bfE",
+    "alg": "A256GCM"
+  },
+  "test_payload": "this is a my super awesome data"
+}
